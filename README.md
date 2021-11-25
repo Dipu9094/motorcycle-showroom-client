@@ -1,5 +1,7 @@
 # Motorcycle showroom Web App
 
+#### use email: admin@admin.com and password: 123456 for admin dashboard
+
 It is a single page application made with ReactJS, Tailwind CSS etc...
 
 ## Five Bullet points of this website :
